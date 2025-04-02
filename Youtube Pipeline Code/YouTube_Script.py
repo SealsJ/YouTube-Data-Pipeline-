@@ -138,7 +138,7 @@ def scrape_all_countries():
         except Exception as e:
             logging.error(f"Error processing country {country_code}, {e}")
 
-@app.timer_trigger(schedule="0 */5 * * * *", arg_name="myTimer", run_on_startup=False, use_monitor=False) 
+@app.timer_trigger(schedule="0 10 * * * *", arg_name="myTimer", run_on_startup=False, use_monitor=False) 
 def GetTrendingVideos(myTimer: func.TimerRequest) -> None:
     if myTimer.past_due:
         logging.info('The timer is past due!')
