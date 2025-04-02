@@ -26,7 +26,7 @@ An End-To-End Data Pipeline that Ingests and Transforms the Top 200 Trending You
 
 ## Tableau
 I developed a Tableau Dashboard to serve as an interactive visual representation that depends on the ingestion of my pipeline! This is a dashboard that is connected to my Transformed Layer ADLS Gen2 and refreshed daily. Please feel free to check it out to find out more about <a href="https://public.tableau.com/app/profile/jeremy.seals3593/viz/YoutubeDataPipelineProject/Dashboard1" target="_blank">YouTube's Trending Page on a Global Scale!</a>
-<img width=100% src="https://imgur.com/IA0LmMW.png" alt="Tableau Dashboard">
+<img width=100% src="https://imgur.com/39fVwwq.png" alt="Tableau Dashboard">
 <hr>
 
 
