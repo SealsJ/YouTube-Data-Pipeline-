@@ -4,7 +4,7 @@
 <p align="center">
   <a href="#about">About</a>
   •
-  <a href="#design">Data Pipeline Design</a>
+  <a href="#Data Pipeline Design">Data Pipeline Design</a>
   •
   <a href="#tableau">Tableau</a>
   •
